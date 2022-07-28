@@ -1,7 +1,7 @@
 ### Hello , I'm Ramandeep Singh 👋
 
 
-- 🔭 I’m currently working on Flight Delay Prediction
+- 🔭 I’m currently working on Machine Learning Models
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 👯 I’m looking to collaborate on Udemy
 - 🤔 I’m looking for help with Machine Learning Documentation
