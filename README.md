@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **Unsupervised Machine Learning Models**
 
-- 👯 I’m looking to collaborate on [Udemy (other learning platforms too)](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/learn/lecture/16450910#overview)
-
 - 🤝 I’m looking for help with [Programming Languages Documentation](https://www.python.org/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rls64234213](https://github.com/rls64234213)
