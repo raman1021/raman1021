@@ -1,4 +1,4 @@
-### Hello , I'm Ramandeep Singh 👋
+
 
 <h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
 <h3 align="center">An AI/ML Enthusiast from India.</h3>
