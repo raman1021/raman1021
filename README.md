@@ -3,29 +3,20 @@
 <h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
 <h3 align="center">An AI/ML Enthusiast from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rls64234213&label=Profile%20views&color=0e75b6&style=flat" alt="rls64234213" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rls64234213" alt="rls64234213" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/raman_1021" target="blank"><img src="https://img.shields.io/twitter/follow/raman_1021?logo=twitter&style=for-the-badge" alt="raman_1021" /></a> </p>
 
-- 🔭 I’m currently working on [Machine Learning Models (Tensorflow)](https://www.tensorflow.org/)
 
-- 🌱 I’m currently learning **Unsupervised Machine Learning Models**
 
-- 🤝 I’m looking for help with [Programming Languages Documentation](https://www.python.org/)
+![giphy](https://user-images.githubusercontent.com/91863987/187720380-808dfed3-8e63-45a7-be20-4bbcd01cbccf.gif)
 
-- 👨‍💻 All of my projects are available at https://github.com/raman1021
 
-- 💬 Ask me about **Tensorflow , Python , Data Science Tools**
 
-- 📫 How to reach me **rls64234213@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raman_1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raman_1021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ramandeep-singh-196205213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramandeep-singh-196205213" height="30" width="40" /></a>
 <a href="https://kaggle.com/ramandeepsingh1317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ramandeepsingh1317" height="30" width="40" /></a>
 <a href="https://instagram.com/raman__1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raman__1021" height="30" width="40" /></a>
