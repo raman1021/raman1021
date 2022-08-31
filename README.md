@@ -40,7 +40,7 @@
 
 
 
-<img align = "right" alt = "ML/AI" width = "275" src = "https://user-images.githubusercontent.com/91863987/187735152-a70a4aff-22ab-47ad-9665-9299c6ae0037.gif">
+<img align = "right" alt = "ML/AI" width = "120" src = "https://user-images.githubusercontent.com/91863987/187735152-a70a4aff-22ab-47ad-9665-9299c6ae0037.gif">
 
 
 
