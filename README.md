@@ -44,7 +44,7 @@
 
 
 
-<img align = "right" alt = "ML/AI" width = "100" src = "https://user-images.githubusercontent.com/91863987/187733619-38fcf19e-1378-4179-b788-d7ada26f8a8d.gif">
+<img align = "right" alt = "ML/AI" width = "275" src = "https://user-images.githubusercontent.com/91863987/187733619-38fcf19e-1378-4179-b788-d7ada26f8a8d.gif">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman1021&" alt="rls64234213" /></p>
 
