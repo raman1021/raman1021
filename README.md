@@ -36,14 +36,14 @@
 
 
 
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raman1021&show_icons=true&locale=en" alt="rls64234213" /></p>
 
 
 
-<img align = "right" alt = "ML/AI" width = "275" src = "https://user-images.githubusercontent.com/91863987/187733619-38fcf19e-1378-4179-b788-d7ada26f8a8d.gif">
+<img align = "right" alt = "ML/AI" width = "275" src = "https://user-images.githubusercontent.com/91863987/187735152-a70a4aff-22ab-47ad-9665-9299c6ae0037.gif">
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman1021&" alt="rls64234213" /></p>
 
