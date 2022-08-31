@@ -1,4 +1,5 @@
-![download](https://user-images.githubusercontent.com/91863987/187727272-e5a46dc2-fa1c-45db-97fe-2d986c77864e.png)
+<img align = "center" alt = "ML/AI" width =  "1200" src = "https://user-images.githubusercontent.com/91863987/187732171-a0465ddb-097d-430d-97f6-8c7f5b11d36c.gif">
+
 
 <h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
 <h3 align="center">An AI/ML Enthusiast from India.</h3>
@@ -16,7 +17,8 @@
 <a href="https://linkedin.com/in/ramandeep-singh-196205213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramandeep-singh-196205213" height="30" width="40" /></a>
 <a href="https://kaggle.com/ramandeepsingh1317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ramandeepsingh1317" height="30" width="40" /></a>
 <a href="https://instagram.com/raman__1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raman__1021" height="30" width="40" /></a>
-<a href="https://hashnode.com/@raman1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@raman1021" height="30" width="40" /></a>
+<a href="https://hashnode.com/@raman1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@raman1021" height="30" width="40" /></a>![download](https://user-images.githubusercontent.com/91863987/187731720-a4b40033-3628-44c7-9080-1f31172e72d5.jpg)
+
 </p>
 
 
