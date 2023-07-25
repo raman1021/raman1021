@@ -1,6 +1,3 @@
-<img align = "center" alt = "ML/AI" width =  "1200" src = "https://user-images.githubusercontent.com/91863987/187732171-a0465ddb-097d-430d-97f6-8c7f5b11d36c.gif">
-
-
 <h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
 <h3 align="center">An AI/ML Enthusiast from India.</h3>
 
