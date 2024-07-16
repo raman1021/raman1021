@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
-<h3 align="center">An AI/ML Enthusiast from India.</h3>
-
-<p align="left"> <a href="https://twitter.com/raman_1021" target="blank"><img src="https://img.shields.io/twitter/follow/raman_1021?logo=twitter&style=for-the-badge" alt="raman_1021" /></a> </p>
-
-
 
 
 
@@ -16,9 +11,6 @@
 <a href="https://instagram.com/raman__1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raman__1021" height="30" width="40" /></a>
 <a href="https://hashnode.com/@raman1021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@raman1021" height="30" width="40" /></a>
 </p>
-
-
-<img align = "right" alt = "ML/AI" width = "400" src = "https://user-images.githubusercontent.com/91863987/187720380-808dfed3-8e63-45a7-be20-4bbcd01cbccf.gif">
 
 
 
